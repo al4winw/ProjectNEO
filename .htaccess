@@ -1,0 +1,3 @@
+Options -Indexes 
+ErrorDocument 404 /sr/404.php
+DirectoryIndex index.php
